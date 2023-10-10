@@ -7,6 +7,8 @@ sites:
     url: https://altor-bos.com/
   - name: Altor
     url: https://altorntl.com/
+  - name: Goog
+    url: https://google.com/
 
 status-website:
   baseUrl: /upptime
