@@ -8,6 +8,9 @@ sites:
   - name: Altor
     url: https://altorntl.com/
 
+status-website:
+  baseUrl: /upptime
+  name: Time is Up
 
 
 # Upptime also supports notifications, assigning issues, and more
