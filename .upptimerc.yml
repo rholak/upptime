@@ -4,9 +4,9 @@ repo: upptime
 
 sites:
   - name: BOS
-    url: https://altor-bos.com/
+    url: $URL_BOS
   - name: Altor
-    url: https://altorntl.com/
+    url: $URL_PUBLIC_SITE
   - name: Goog
     url: https://google.com/
 
