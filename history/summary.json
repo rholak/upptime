@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bos",
     "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
-    "time": 696,
-    "timeDay": 862,
-    "timeWeek": 696,
-    "timeMonth": 696,
-    "timeYear": 696,
+    "uptime": "99.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 707,
+    "timeDay": 785,
+    "timeWeek": 707,
+    "timeMonth": 707,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2023-10-11": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 329,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "time": 374,
+    "timeDay": 421,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   },
   {
@@ -42,17 +42,19 @@
     "url": "https://google.com/",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "goog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 682,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 296,
-    "dailyMinutesDown": {}
+    "time": 294,
+    "timeDay": 290,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
+    "dailyMinutesDown": {
+      "2023-10-12": 0
+    }
   }
 ]
