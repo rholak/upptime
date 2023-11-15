@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1339,
-    "timeDay": 1100,
-    "timeWeek": 940,
-    "timeMonth": 1514,
-    "timeYear": 1339,
+    "time": 1331,
+    "timeDay": 995,
+    "timeWeek": 945,
+    "timeMonth": 1512,
+    "timeYear": 1331,
     "dailyMinutesDown": {
       "2023-10-11": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 268,
-    "timeWeek": 319,
+    "time": 693,
+    "timeDay": 182,
+    "timeWeek": 297,
     "timeMonth": 786,
-    "timeYear": 705,
+    "timeYear": 693,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "goog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 177,
-    "timeDay": 203,
-    "timeWeek": 162,
-    "timeMonth": 160,
-    "timeYear": 177,
-    "dailyMinutesDown": {
-      "2023-11-14": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 182,
+    "timeDay": 287,
+    "timeWeek": 190,
+    "timeMonth": 166,
+    "timeYear": 182,
+    "dailyMinutesDown": {}
   }
 ]
