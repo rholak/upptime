@@ -4,7 +4,7 @@
     "url": "$URL_BOS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1482,
     "timeYear": 1208,
     "dailyMinutesDown": {
+      "2024-08-15": 0,
       "2023-10-11": 29
     }
   },
