@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1200,
-    "timeDay": 1049,
-    "timeWeek": 953,
-    "timeMonth": 1170,
-    "timeYear": 1200,
+    "time": 1199,
+    "timeDay": 714,
+    "timeWeek": 942,
+    "timeMonth": 1165,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2023-10-11": 29
     }
@@ -26,18 +26,16 @@
     "slug": "altor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
-    "timeDay": 1749,
+    "timeDay": 1735,
     "timeWeek": 801,
-    "timeMonth": 463,
+    "timeMonth": 461,
     "timeYear": 392,
-    "dailyMinutesDown": {
-      "2024-09-19": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Goog",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 113,
-    "timeWeek": 129,
-    "timeMonth": 156,
+    "timeDay": 160,
+    "timeWeek": 133,
+    "timeMonth": 152,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2024-05-01": 36
