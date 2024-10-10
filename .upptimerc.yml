@@ -5,6 +5,8 @@ repo: upptime
 sites:
   - name: BOS
     url: $URL_BOS
+  - name: BOS2
+    url: $URL_BOS2
   - name: Altor
     url: $URL_PUBLIC_SITE
   - name: Goog
@@ -12,7 +14,7 @@ sites:
 
 status-website:
   baseUrl: /upptime
-  name: Time is Up
+  name: Your Time is Up
 
 
 # Upptime also supports notifications, assigning issues, and more
