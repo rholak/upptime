@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bos-2",
     "status": "up",
-    "uptime": "49.43%",
-    "uptimeDay": "49.43%",
-    "uptimeWeek": "49.43%",
-    "uptimeMonth": "49.43%",
-    "uptimeYear": "49.43%",
+    "uptime": "52.28%",
+    "uptimeDay": "52.28%",
+    "uptimeWeek": "52.28%",
+    "uptimeMonth": "52.28%",
+    "uptimeYear": "52.28%",
     "time": 1044,
     "timeDay": 1044,
     "timeWeek": 1044,
     "timeMonth": 1044,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2024-10-10": 336
+      "2024-10-10": 328
     }
   },
   {
