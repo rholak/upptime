@@ -22,15 +22,15 @@
     "url": "$URL_BOS2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bos-2",
-    "status": "up",
-    "uptime": "86.73%",
+    "status": "down",
+    "uptime": "86.84%",
     "uptimeDay": "67.02%",
-    "uptimeWeek": "71.11%",
-    "uptimeMonth": "86.73%",
-    "uptimeYear": "86.73%",
+    "uptimeWeek": "71.35%",
+    "uptimeMonth": "86.84%",
+    "uptimeYear": "86.84%",
     "time": 1046,
     "timeDay": 1105,
-    "timeWeek": 1048,
+    "timeWeek": 1049,
     "timeMonth": 1046,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
       "2024-10-22": 442,
       "2024-10-21": 477,
       "2024-10-20": 504,
-      "2024-10-19": 68
+      "2024-10-19": 44
     }
   },
   {
