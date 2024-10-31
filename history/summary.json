@@ -13,7 +13,7 @@
     "time": 1204,
     "timeDay": 1395,
     "timeWeek": 1153,
-    "timeMonth": 1056,
+    "timeMonth": 1299,
     "timeYear": 1224,
     "dailyMinutesDown": {}
   },
@@ -23,23 +23,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bos-2",
     "status": "up",
-    "uptime": "89.68%",
-    "uptimeDay": "64.39%",
-    "uptimeWeek": "69.83%",
-    "uptimeMonth": "89.68%",
-    "uptimeYear": "89.68%",
+    "uptime": "89.64%",
+    "uptimeDay": "64.91%",
+    "uptimeWeek": "69.69%",
+    "uptimeMonth": "89.64%",
+    "uptimeYear": "89.64%",
     "time": 1066,
     "timeDay": 1203,
     "timeWeek": 1113,
     "timeMonth": 1066,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2024-10-30": 511,
+      "2024-10-30": 504,
       "2024-10-29": 512,
       "2024-10-28": 561,
       "2024-10-27": 460,
       "2024-10-26": 605,
-      "2024-10-25": 391
+      "2024-10-25": 413
     }
   },
   {
@@ -56,7 +56,7 @@
     "time": 386,
     "timeDay": 173,
     "timeWeek": 347,
-    "timeMonth": 348,
+    "timeMonth": 346,
     "timeYear": 348,
     "dailyMinutesDown": {}
   },
