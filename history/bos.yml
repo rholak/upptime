@@ -1,7 +1,7 @@
 url: $URL_BOS
-status: up
-code: 200
-responseTime: 772
-lastUpdated: 2025-01-12T23:00:47.271Z
+status: down
+code: 502
+responseTime: 309
+lastUpdated: 2025-01-13T19:26:32.719Z
 startTime: 2023-10-10T14:06:50.920Z
 generator: Upptime <https://github.com/upptime/upptime>
