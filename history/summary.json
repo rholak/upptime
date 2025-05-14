@@ -159,19 +159,19 @@
     "url": "$URL_PUBLIC_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "altor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 371,
-    "timeWeek": 382,
-    "timeMonth": 411,
-    "timeYear": 365,
+    "time": 403,
+    "timeDay": 11340,
+    "timeWeek": 3123,
+    "timeMonth": 1117,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-05-14": 0
+      "2025-05-14": 10
     }
   },
   {
