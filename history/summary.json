@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bos-2",
     "status": "up",
-    "uptime": "50.97%",
+    "uptime": "51.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.97%",
+    "uptimeYear": "51.16%",
     "time": 1027,
     "timeDay": 310,
     "timeWeek": 429,
@@ -159,9 +159,9 @@
     "url": "$URL_PUBLIC_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "altor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -170,7 +170,9 @@
     "timeWeek": 382,
     "timeMonth": 411,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   },
   {
     "name": "Goog",
