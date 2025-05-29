@@ -11,6 +11,17 @@ sites:
     url: $URL_PUBLIC_SITE
   - name: Goog
     url: https://google.com/
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+
+assignees:
+  - rholak
 
 status-website:
   baseUrl: /upptime
