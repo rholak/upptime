@@ -3,6 +3,10 @@ owner: rholak
 repo: upptime
 
 sites:
+  - name: This Repo
+    url: https://github.com/rholak/upptime/
+  - name: Status Page
+    url: https://rholak.github.io/upptime/
   - name: BOS
     url: $URL_BOS
   - name: BOS2
@@ -26,6 +30,12 @@ assignees:
 status-website:
   baseUrl: /upptime
   name: Your Time is Up
+  theme: ocean
+  navbar:
+  - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 
 # Upptime also supports notifications, assigning issues, and more
