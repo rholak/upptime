@@ -32,7 +32,7 @@ status-website:
   name: Your Time is Up
   theme: ocean
   navbar:
-  - title: Status
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
