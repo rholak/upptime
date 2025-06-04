@@ -36,7 +36,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  customFootHtml: "<a href="https://deepwiki.com/rholak/upptime"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>"
+  customFootHtml: "<a href=\"https://deepwiki.com/rholak/upptime\"><img src=\"https://deepwiki.com/badge.svg\" alt=\"Ask DeepWiki\"></a>"
 
 
 # Upptime also supports notifications, assigning issues, and more
