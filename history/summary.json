@@ -13,7 +13,7 @@
     "time": 778,
     "timeDay": 654,
     "timeWeek": 615,
-    "timeMonth": 941,
+    "timeMonth": 930,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2026-03-18": 52,
@@ -39,7 +39,7 @@
     "time": 115,
     "timeDay": 165,
     "timeWeek": 115,
-    "timeMonth": 115,
+    "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -50,18 +50,16 @@
     "slug": "bos",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1049,
     "timeDay": 618,
     "timeWeek": 900,
-    "timeMonth": 2189,
+    "timeMonth": 2615,
     "timeYear": 1112,
-    "dailyMinutesDown": {
-      "2026-03-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BOS2",
@@ -70,18 +68,16 @@
     "slug": "bos-2",
     "status": "up",
     "uptime": "80.27%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 518,
     "timeDay": 325,
     "timeWeek": 575,
-    "timeMonth": 569,
+    "timeMonth": 566,
     "timeYear": 521,
-    "dailyMinutesDown": {
-      "2026-03-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Altor",
@@ -97,7 +93,7 @@
     "time": 460,
     "timeDay": 507,
     "timeWeek": 458,
-    "timeMonth": 371,
+    "timeMonth": 369,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2026-03-27": 26,
@@ -121,7 +117,7 @@
     "time": 219,
     "timeDay": 359,
     "timeWeek": 319,
-    "timeMonth": 237,
+    "timeMonth": 235,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2026-03-03": 16,
