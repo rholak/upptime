@@ -52,19 +52,19 @@
     "url": "$URL_BOS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 713,
-    "timeWeek": 670,
-    "timeMonth": 699,
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 1013,
+    "timeDay": 872,
+    "timeWeek": 715,
+    "timeMonth": 709,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2026-06-04": 5
+      "2026-06-04": 56
     }
   },
   {
